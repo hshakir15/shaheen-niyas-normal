@@ -454,7 +454,7 @@ export function IntroGate({ onOpened, opened }: Props) {
             <h1 className="hero-title drop-shadow-md">
               {config.couple.groom.name}
             </h1>
-            <p className="hero-details mt-0.5 md:mt-0.8 lg:mt-0.5 leading-snug drop-shadow">
+            <p className="hero-details whitespace-pre-line mt-0.5 md:mt-0.8 lg:mt-0.5 leading-snug drop-shadow">
               {config.couple.groom.parents}
               <br />
               {config.couple.groom.details}

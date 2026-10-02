@@ -69,7 +69,7 @@ export function Hero({ opened }: { opened: boolean }) {
           </Reveal>
 
           <Reveal delay={800} className="mt-0.5 md:mt-0.8 lg:mt-0.5">
-            <p className="hero-details leading-snug drop-shadow">
+            <p className="hero-details whitespace-pre-line leading-snug drop-shadow">
               {groom.parents}
               <br />
               {groom.details}

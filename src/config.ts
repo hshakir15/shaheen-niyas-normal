@@ -26,7 +26,7 @@ export const config = {
     groom: {
       name: "Mohammed Niyas",
       parents: "S/O",
-      details: "Mohammed Salim Koya & Faseela Salim",
+      details: "Late Mohammed Salim Koya\n& Faseela Salim",
     },
     bride: {
       name: "Shaheen",
@@ -38,7 +38,7 @@ export const config = {
   // ---------- DATE & TIME ----------
   wedding: {
     // ISO date-time of the ceremony (local time)
-    isoStart: "2026-10-15T11:30:00",
+    isoStart: "2026-10-15T11:00:00",
     isoEnd: "2026-10-15T14:00:00",
     dateLabel: "October 15, 2026",
     hijriDate: "🌙 4 Jumada al-Awwal 1448 AH",
